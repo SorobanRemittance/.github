@@ -1,10 +1,10 @@
-# UtilityX Remittance Layer
+# SorobanRemittance Layer
 
 A Pan-African remittance infrastructure powered by Stellar and Soroban smart contracts.
 
 ## Overview
 
-UtilityX enables instant, low-cost cross-border transfers across Africa using USDC settlement rails.
+Remittance enables instant, low-cost cross-border transfers across Africa using USDC settlement rails.
 
 Users can:
 - Send money internationally
@@ -66,16 +66,6 @@ User → API → Soroban Contracts → Stellar → Offramps
 - USDC transfers
 - Nigeria corridor
 - Agent network
-
-### Phase 2
-- Multi-country support
-- Merchant APIs
-- Liquidity pools
-
-### Phase 3
-- Utility marketplace
-- DAO governance
-- Pan-African settlement network
 
 ## Security
 
