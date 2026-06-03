@@ -59,21 +59,6 @@ Validates transactions and risk rules.
 
 User → API → Soroban Contracts → Stellar → Offramps
 
-## Roadmap
-
-### MVP
-- Wallets
-- USDC transfers
-- Nigeria corridor
-- Agent network
-
-## Security
-
-- Multi-sig treasury
-- AML monitoring
-- Transaction auditing
-- Encrypted wallets
-
 ## License
 
 MIT
